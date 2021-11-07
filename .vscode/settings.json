@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstack.h": "c",
+        "tree.h": "c",
+        "cqueue.h": "c"
+    }
+}
